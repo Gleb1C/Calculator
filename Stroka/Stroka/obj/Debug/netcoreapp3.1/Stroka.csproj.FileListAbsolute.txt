@@ -1,0 +1,14 @@
+C:\Users\я\source\repos\Stroka\Stroka\bin\Debug\netcoreapp3.1\Stroka.exe
+C:\Users\я\source\repos\Stroka\Stroka\bin\Debug\netcoreapp3.1\Stroka.deps.json
+C:\Users\я\source\repos\Stroka\Stroka\bin\Debug\netcoreapp3.1\Stroka.runtimeconfig.json
+C:\Users\я\source\repos\Stroka\Stroka\bin\Debug\netcoreapp3.1\Stroka.runtimeconfig.dev.json
+C:\Users\я\source\repos\Stroka\Stroka\bin\Debug\netcoreapp3.1\Stroka.dll
+C:\Users\я\source\repos\Stroka\Stroka\bin\Debug\netcoreapp3.1\Stroka.pdb
+C:\Users\я\source\repos\Stroka\Stroka\obj\Debug\netcoreapp3.1\Stroka.csproj.AssemblyReference.cache
+C:\Users\я\source\repos\Stroka\Stroka\obj\Debug\netcoreapp3.1\Stroka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\source\repos\Stroka\Stroka\obj\Debug\netcoreapp3.1\Stroka.AssemblyInfoInputs.cache
+C:\Users\я\source\repos\Stroka\Stroka\obj\Debug\netcoreapp3.1\Stroka.AssemblyInfo.cs
+C:\Users\я\source\repos\Stroka\Stroka\obj\Debug\netcoreapp3.1\Stroka.csproj.CoreCompileInputs.cache
+C:\Users\я\source\repos\Stroka\Stroka\obj\Debug\netcoreapp3.1\Stroka.dll
+C:\Users\я\source\repos\Stroka\Stroka\obj\Debug\netcoreapp3.1\Stroka.pdb
+C:\Users\я\source\repos\Stroka\Stroka\obj\Debug\netcoreapp3.1\Stroka.genruntimeconfig.cache
